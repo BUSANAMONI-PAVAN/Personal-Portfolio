@@ -101,7 +101,7 @@ Hi, I’m **PAVAN BUSANAMONi**, a **B.Tech 3rd Year CSE student (DevOps Speciali
 ## 📬 Contact
 
 * 📧 Email: pavan.busanamoni@gmail.com
-* 🔗 LinkedIn:[ *your-linkedin-profile*](https://www.linkedin.com/in/busanamoni-pavan-3180812b5)
+* 🔗 LinkedIn:(https://www.linkedin.com/in/busanamoni-pavan-3180812b5)
 * 💻 GitHub: https://github.com/BUSANAMONI-PAVAN
 
 ---

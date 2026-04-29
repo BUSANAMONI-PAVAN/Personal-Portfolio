@@ -62,7 +62,7 @@ Personal-Portfolio/
 ### 1️⃣ Clone the Repository
 
 ```bash id="kz82js"
-git clone https://github.com/YOUR_USERNAME/Personal-Portfolio.git
+git clone https://github.com/BUSANAMONI-PAVAN/Personal-Portfolio.git
 cd Personal-Portfolio
 ```
 
